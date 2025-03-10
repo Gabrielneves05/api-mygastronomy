@@ -9,6 +9,7 @@
       "Ervilhas Frescas",
       "Tomates"
     ],
+    "imgUrl": "/images/plates/seafoodSalad.png",
     "category": "First"
   },
   {
@@ -20,6 +21,7 @@
       "Tortellini caseiro",
       "Caldo de galinha"
     ],
+    "imgUrl": "/images/plates/tortellini.png",
     "category": "First"
   },
   {
@@ -32,6 +34,7 @@
       "Legumes",
       "Molho para salada"
     ],
+    "imgUrl": "/images/plates/shrimpandVegetableSalad.png",
     "category": "Side"
   },
   {
@@ -43,6 +46,7 @@
       "Marisco misto",
       "Azeite extra virgem"
     ],
+    "imgUrl": "/images/plates/seafoodSalad.png",
     "category": "Appetizer"
   },
   {
@@ -56,6 +60,7 @@
       "Massa com ovos",
       "Manjericão"
     ],
+    "imgUrl": "/images/plates/lasagna.png",
     "category": "First"
   },
   {
@@ -69,6 +74,7 @@
       "Fermento",
       "Sal"
     ],
+    "imgUrl": "/images/plates/bread.png",
     "category": "Other"
   },
   {
@@ -82,6 +88,7 @@
       "Manjericão",
       "Manteiga"
     ],
+    "imgUrl": "/images/plates/meatBalls.png",
     "category": "Second"
   },
   {
@@ -94,6 +101,7 @@
       "Legumes grelhados",
       "Sementes de sésamo"
     ],
+    "imgUrl": "/images/plates/swordfish.png",
     "category": "Appetizer"
   },
   {
@@ -105,6 +113,7 @@
       "Salmão grelhado",
       "Legumes mistos"
     ],
+    "imgUrl": "/images/plates/grilledSalmon.png",
     "category": "Second"
   }
 ]
